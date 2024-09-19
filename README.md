@@ -59,8 +59,6 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 Citation
 If you use this work in your research, please cite it as follows:
 
-sql
-Copy code
 @article{ghamsarian2024deeppyramid,
   title={DeepPyramid+: medical image segmentation using Pyramid View Fusion and Deformable Pyramid Reception},
   author={Ghamsarian, Negin and Wolf, Sebastian and Zinkernagel, Martin and Schoeffmann, Klaus and Sznitman, Raphael},
