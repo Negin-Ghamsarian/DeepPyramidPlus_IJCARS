@@ -25,37 +25,6 @@ DeepPyramid+ has been evaluated on multiple medical imaging datasets, including:
 5. **Retina OCT**  
 6. **Cross-Domain Cataract and Prostate MRI**
 
-## Installation and Usage
-
-### Prerequisites
-
-- Python 3.8+
-- PyTorch 1.9.0+
-
-### Clone the repository
-
-```bash
-git clone https://github.com/Negin-Ghamsarian/DeepPyramid_Plus.git
-cd DeepPyramid_Plus
-Install Dependencies
-bash
-Copy code
-pip install -r requirements.txt
-Training
-Download the datasets and prepare them for training.
-To train the model, use the following command:
-bash
-Copy code
-python train.py --config config.yaml
-Evaluation
-Use the provided evaluation scripts to measure performance on the test set:
-
-bash
-Copy code
-python evaluate.py --checkpoint best_model.pth --dataset test_dataset
-License
-This work is licensed under a Creative Commons Attribution 4.0 International License.
-
 Citation
 If you use this work in your research, please cite it as follows:
 
