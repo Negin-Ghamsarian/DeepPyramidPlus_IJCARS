@@ -10,8 +10,8 @@ DeepPyramid+ is a novel neural network architecture designed for medical image a
 - **Pyramid View Fusion (PVF):** A module that mimics a human-like deduction process within the network, improving pixel-wise information extraction.
 - **Deformable Pyramid Reception (DPR):** Introduces dilated deformable convolutions for adaptive shape- and scale-sensitive feature extraction, improving robustness against shape and size variations.
 
-<img src="./Figures/BD_rev.pdf" alt="Proposed Pyramid View Fusion and Deformable Pyramid Reception modules." width="500">
-<img src="./Figures/modules_rev.pdf" alt="Proposed Pyramid View Fusion and Deformable Pyramid Reception modules." width="500">
+<img src="./Figures/BD_rev-1.png" alt="Proposed Pyramid View Fusion and Deformable Pyramid Reception modules." width="500">
+<img src="./Figures/modules_rev-1.png" alt="Proposed Pyramid View Fusion and Deformable Pyramid Reception modules." width="500">
 
 ## Results
 
@@ -28,7 +28,7 @@ DeepPyramid+ has been evaluated on multiple medical imaging datasets, including:
 5. **Retina OCT**  
 6. **Cross-Domain Cataract and Prostate MRI**
 
-<img src="./Figures/Datasets.pdf" alt="Proposed Pyramid View Fusion and Deformable Pyramid Reception modules." width="500">
+<img src="./Figures/Datasets-1.png" alt="Proposed Pyramid View Fusion and Deformable Pyramid Reception modules." width="500">
 
 ## Citation
 If you use this work in your research, please cite it as follows:
