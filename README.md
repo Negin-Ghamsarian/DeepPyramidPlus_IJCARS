@@ -25,9 +25,10 @@ DeepPyramid+ has been evaluated on multiple medical imaging datasets, including:
 5. **Retina OCT**  
 6. **Cross-Domain Cataract and Prostate MRI**
 
-Citation
+## Citation
 If you use this work in your research, please cite it as follows:
 
+```
 @article{ghamsarian2024deeppyramid,
   title={DeepPyramid+: medical image segmentation using Pyramid View Fusion and Deformable Pyramid Reception},
   author={Ghamsarian, Negin and Wolf, Sebastian and Zinkernagel, Martin and Schoeffmann, Klaus and Sznitman, Raphael},
@@ -38,6 +39,7 @@ If you use this work in your research, please cite it as follows:
   year={2024},
   publisher={Springer}
 }
+```
 
 ## Acknowledgments
 
